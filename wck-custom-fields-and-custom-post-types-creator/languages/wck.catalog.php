@@ -428,8 +428,8 @@
 <?php __("In order for the map field to work it will need a Google Maps API key. Please insert your API key <a href=\"%s\">here</a>.", "wck"); ?>
 <?php __("Search Location", "wck"); ?>
 <?php __("Upload ", "wck"); ?>
-<?php __("Wrong form for this post type", "wck"); ?>
 <?php __("You are not allowed to edit this post.", "wck"); ?>
+<?php __("Wrong form for this post type", "wck"); ?>
 <?php __("My Profile", "wck"); ?>
 <?php __("My ", "wck"); ?>
 <?php __("Welcome %1$s! ", "wck"); ?>

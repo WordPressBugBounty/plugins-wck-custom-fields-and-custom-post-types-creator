@@ -432,6 +432,11 @@
 <?php __("Wrong form for this post type", "wck"); ?>
 <?php __("My Profile", "wck"); ?>
 <?php __("My ", "wck"); ?>
+<?php __("Lost your password?", "wck"); ?>
+<?php __("The username field is empty.", "wck"); ?>
+<?php __("The password field is empty.", "wck"); ?>
+<?php __("The username or password you entered is incorrect.", "wck"); ?>
+<?php __("Login failed. Please try again.", "wck"); ?>
 <?php __("Welcome %1$s! ", "wck"); ?>
 <?php __("Logout", "wck"); ?>
 <?php __("User:", "wck"); ?>
